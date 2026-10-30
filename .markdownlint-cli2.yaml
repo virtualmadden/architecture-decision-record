@@ -1,0 +1,9 @@
+config:
+  # Prose is wrapped by the reader, not the source.
+  MD013: false
+  # MADR repeats headings such as "Pros and Cons" under different options.
+  MD024:
+    siblings_only: true
+ignores:
+  # Upstream MADR template, kept verbatim.
+  - docs/decisions/adr-template.md
