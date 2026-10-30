@@ -17,6 +17,7 @@ A decision about a single repository lives in that repository's `docs/decisions/
 | [0007](docs/decisions/0007-repository-baseline.md) | A standard baseline for every active repository | Accepted |
 | [0008](docs/decisions/0008-share-infrastructure-as-template-repositories.md) | Share infrastructure patterns as template repositories, not modules | Accepted |
 | [0009](docs/decisions/0009-retire-repositories-by-archiving-or-deleting.md) | Retire repositories by archiving them, or deleting them if they hold nothing | Accepted |
+| [0010](docs/decisions/0010-receive-with-porkbun-send-with-ses.md) | Receive domain mail through Porkbun forwarding, and send it through SES | Accepted |
 
 ## Adding a decision
 
